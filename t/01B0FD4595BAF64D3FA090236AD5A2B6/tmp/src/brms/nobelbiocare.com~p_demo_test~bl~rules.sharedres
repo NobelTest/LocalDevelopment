@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset activatehigherpriorityrule="true" aliasname="" effectivedate="Always" expirationdate="" groupingreason="" guid="RS95cb62accf7011e7c696a44cc8f139c9" isreusable="false" mainflowguid="" mainflowname="" name="nobelbiocare.com~p_demo_test~bl~rules.sharedres" persistent="false" projectname="nobelbiocare.com~p_demo_test~bl~rules" type="SimpleRuleset" varaliasname="" version="1">
+  <reusedresources/>
+</ruleset>

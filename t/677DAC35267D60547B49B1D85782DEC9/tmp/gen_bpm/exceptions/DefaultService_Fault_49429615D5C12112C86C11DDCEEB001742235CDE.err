@@ -1,0 +1,10 @@
+# Non-critical error event definition DefaultService_Fault (MOFId: 49429615D5C12112C86C11DDCEEB001742235CDE)
+NETWORK,94F96FFCC85613C884539AF1AD6DDBA0,DefaultService_Fault
+REVISIONID,4,7,Galaxy exception compiler as of NetWeaver CE 7.31 SP 17 (Build Time: 2015-09-14 08:43:18)
+-- CONFIG --
+CONFIG,com.sap.glx.adapter.internal.ExceptionAdapter,Exception,94F96FFCC85613C884539AF1AD6DDBA0,SCOPE=279BFEEC2DAAE5222C0C8C005735AA6C
+CONFIG,com.sap.glx.adapter.internal.ExceptionAdapter,Exception,94F96FFCC85613C884539AF1AD6DDBA0,ROOT,NAME=fault
+CONFIG,com.sap.glx.adapter.internal.ExceptionAdapter,Exception,94F96FFCC85613C884539AF1AD6DDBA0,ROOT,NAMESPACE=sap.com/glx/
+CONFIG,com.sap.glx.adapter.internal.ExceptionAdapter,Exception,94F96FFCC85613C884539AF1AD6DDBA0,ROOT,TYPE=4942915A03D4A8E5C86A11DDC433001742235CDE
+CONFIG,com.sap.glx.adapter.internal.ExceptionAdapter,Exception,94F96FFCC85613C884539AF1AD6DDBA0,ROOT,TYPENAMESPACE=sap.com/glx/
+CONFIG,com.sap.glx.adapter.internal.ExceptionAdapter,Exception,94F96FFCC85613C884539AF1AD6DDBA0,ROOT,EXCEPTION_COMPILER_VERSION=2

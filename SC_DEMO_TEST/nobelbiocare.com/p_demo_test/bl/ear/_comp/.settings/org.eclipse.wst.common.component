@@ -2,11 +2,10 @@
 <project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="LocalDevelopment~p_demo_test~bl~ear~nobelbiocare.com">
         <wb-resource deploy-path="/" source-path="/"/>
-        <dependent-module archiveName="LocalDevelopment~p_demo_test~bl~ejb~nobelbiocare.com.jar" deploy-path="/" handle="module:/resource/LocalDevelopment~p_demo_test~bl~ejb~nobelbiocare.com/LocalDevelopment~p_demo_test~bl~ejb~nobelbiocare.com">
-            <dependent-object/>
+        <dependent-module deploy-path="/" handle="module:/resource/LocalDevelopment~p_demo_test~infra~sgc~nobelbiocare.com/LocalDevelopment~p_demo_test~infra~sgc~nobelbiocare.com">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module deploy-path="/" handle="module:/resource/LocalDevelopment~p_demo_test~infra~sgc~nobelbiocare.com/LocalDevelopment~p_demo_test~infra~sgc~nobelbiocare.com">
+        <dependent-module deploy-path="/" handle="module:/resource/LocalDevelopment~p_demo_test~bl~ejb~nobelbiocare.com/LocalDevelopment~p_demo_test~bl~ejb~nobelbiocare.com">
             <dependency-type>uses</dependency-type>
         </dependent-module>
     </wb-module>

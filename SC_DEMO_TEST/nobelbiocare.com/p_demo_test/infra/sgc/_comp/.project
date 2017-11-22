@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>LocalDevelopment~p_demo_test~infra~sgc~nobelbiocare.com</name>
-	<comment>SAP Development Component Project</comment>
+	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -27,8 +27,8 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
 		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
 		<nature>com.sap.ide.dii05.lib.dcnature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>com.sap.mi.fwk.dcfwk.MoinNature</nature>

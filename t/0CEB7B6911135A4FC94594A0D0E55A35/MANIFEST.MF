@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Class-Path: 
+DC-Name: p_demo_test/bl/scomp
+DC-Type: Service Composition
+DC-Vendor: nobelbiocare.com
+Implementation-Title: p_demo_test/bl/scomp
+Implementation-Vendor: nobelbiocare.com
+Implementation-Version: localDevelopment 20171122104853
+SC-Name: SC_DEMO_TEST
+SC-Vendor: nobelbiocare.com
+
+Name: build-information
+Build-Counter: 20171122104853
+Build-Date: 2017-11-22
+Build-Location: localDevelopment
+Build-Time: 11:48:53 GMT+01:00 (CET)
+Created-By: DC BuildTool
+Source-Location: pedro.jimenez@MADNB2016
+

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>LocalDevelopment~p_demo_test~bl~caf~metadata~nobelbiocare.com</name>
-	<comment>SAP Development Component Project</comment>
+	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 	</buildSpec>
 	<natures>
-		<nature>com.sap.caf.designer.foundation.CAFNature</nature>
 		<nature>com.sap.ide.dii05.lib.dcnature</nature>
+		<nature>com.sap.caf.designer.foundation.CAFNature</nature>
 	</natures>
 </projectDescription>

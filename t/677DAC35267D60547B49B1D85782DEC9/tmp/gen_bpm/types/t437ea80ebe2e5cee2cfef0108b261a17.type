@@ -1,0 +1,5 @@
+ROOT_0,TARGET_NAMESPACE=sap.com/glx/
+ROOT_0,SCHEMA_LOCATION=sap.com/glx/
+ROOT_0,ROOTID=0
+ROOT_0,SCHEMA=<?xml version="1.0" encoding="UTF-8"?> <xsd:schema targetNamespace="sap.com/glx/" xmlns:tns="sap.com/glx/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">   <xsd:element name="fault" sdox:aliasName="$sap.com/glx/:fault" xmlns:sdox="commonj.sdo/xml">     <xsd:complexType sdox:aliasName="4942915A03D4A8E5C86A11DDC433001742235CDE">       <xsd:sequence></xsd:sequence>     </xsd:complexType>   </xsd:element> </xsd:schema> 
+

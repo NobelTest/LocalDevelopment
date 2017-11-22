@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>LocalDevelopment~p_demo_test~ui~wd~nobelbiocare.com</name>
-	<comment>SAP Development Component Project</comment>
+	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -25,11 +25,6 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
-		<buildCommand>
-			<name>com.sap.mi.fwk.MoinConstraintChecker</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
 	</buildSpec>
 	<natures>
 		<nature>com.sap.ide.webdynpro.archivebuilder.WebDynproNature</nature>
@@ -37,7 +32,5 @@
 		<nature>com.sap.dictionary.tools.archivebuilder.DictionaryNature</nature>
 		<nature>com.sap.ide.dii05.lib.dcnature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
-		<nature>com.sap.mi.fwk.dcfwk.MoinNature</nature>
-		<nature>com.sap.ide.es.config.mc.runtime.massconfignature</nature>
 	</natures>
 </projectDescription>

@@ -1,0 +1,10 @@
+ProjectName:nobelbiocare.com~p_demo_test~bl~rules
+RulesBuildID:056A9309481B869D5A4593CE317CEBBA
+TypeMofID: 
+VersionedInvocation:false
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Project_Properties</comment>
+<entry key="DC Type">Rules Composer</entry>
+</properties>

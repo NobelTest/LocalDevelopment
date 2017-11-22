@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>LocalDevelopment~p_demo_test~bl~rules~nobelbiocare.com</name>
-	<comment>SAP Development Component Project</comment>
+	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -17,9 +17,9 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>com.sap.brmside.RulesNature</nature>
 		<nature>com.sap.ide.dii05.lib.dcnature</nature>
 		<nature>com.sap.mi.fwk.dcfwk.MoinNature</nature>
+		<nature>com.sap.brmside.RulesNature</nature>
 		<nature>com.sap.tc.esmp.tools.wsdl1import.nature</nature>
 	</natures>
 </projectDescription>

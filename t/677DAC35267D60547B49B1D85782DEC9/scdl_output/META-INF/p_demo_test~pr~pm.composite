@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<composite xmlns="http://www.osoa.org/xmlns/sca/1.0" xmlns:sap="http://www.sap.com" xmlns:sapimplbpm="http://www.sap.com/webas/2007/03/esoa/implementation/bpm" name="p_demo_test~pr~pm" targetNamespace="http://www.sap.com">
+<component name="nobelbiocare.com~p_demo_test~pr~pm~BPMcomponent">
+<sapimplbpm:implementation.bpm/>
+</component>
+</composite>
