@@ -109,7 +109,7 @@
 <points x='25' y='44' before='0' after='0'/>
 </pictograms.Polygon>
 <pictograms.ChopboxAnchor m:c='1' m:i='E02C978BCBE32785CF7211E7C9B800059A3C7A00' visible='false' active='false'/>
-<pictograms.MultiText m:c='1' m:i='E02C978BCBE3E961CF7211E7CB6300059A3C7A00' width='98' height='41' x='2' y='0' font='E02C978BCBE495B3CF7211E7B6D000059A3C7A00' horizontalAlignment='ALIGNMENT_LEFT' verticalAlignment='ALIGNMENT_TOP' value='Test POC Rep'/>
+<pictograms.MultiText m:c='1' m:i='E02C978BCBE3E961CF7211E7CB6300059A3C7A00' width='98' height='41' x='2' y='0' font='E02C978BCBE495B3CF7211E7B6D000059A3C7A00' horizontalAlignment='ALIGNMENT_LEFT' verticalAlignment='ALIGNMENT_TOP' value='Cambio Nota 2'/>
 <pictograms.Font m:c='1' m:i='E02C978BCBE495B3CF7211E7B6D000059A3C7A00' name='Arial' size='8' italic='false' bold='false'/>
 <links.PictogramLink m:c='1' m:i='E02C978BCBE4B2B5CF7211E79A6C00059A3C7A00'/>
 <pictograms.ContainerShape m:c='1' m:i='E0C4897FB0A7F92FCF7011E7C5E0A44CC8F139C9' visible='true' active='true'/>

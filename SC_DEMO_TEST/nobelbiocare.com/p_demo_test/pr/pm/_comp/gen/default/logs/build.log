@@ -1,4 +1,4 @@
-Development Component Build (2017-11-22 11:49:52 GMT+01:00 (CET))
+Development Component Build (2017-11-22 12:40:11 GMT+01:00 (CET))
   Component name: p_demo_test/pr/pm
   Component vendor: nobelbiocare.com
   SC compartment: SC_DEMO_TEST
@@ -50,7 +50,7 @@ Build Plugin 'sap.com/tc/bpem/bi/bp/buildtool', Version 7.30 SP 17 (NW731CORE_17
          source location:  pedro.jimenez@MADNB2016
          output location:  D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\677DAC35267D60547B49B1D85782DEC9\default
        generation folder:  D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\677DAC35267D60547B49B1D85782DEC9
-       plugin start time:  2017-11-22 11:49:52 GMT+01:00 (CET)
+       plugin start time:  2017-11-22 12:40:14 GMT+01:00 (CET)
                  Java VM:  Java HotSpot(TM) Client VM, 20.45-b01 (1.6, Sun Microsystems Inc.)
 
 
@@ -62,10 +62,10 @@ General options:
 
 Source folder "mc" exists but is empty and will be ignored.
 Checking path lengths for sources
-Path length checks finished in 0.001 seconds
+Path length checks finished in 0.003 seconds
  
 Preparing data context..
-Data context preparation finished in 0.008 seconds
+Data context preparation finished in 0.023 seconds
  
 Creating Ant build file..
   Creating output file: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\677DAC35267D60547B49B1D85782DEC9\default\logs\build.xml
@@ -86,7 +86,7 @@ Metamodels found.
 Output folder found.
 Target "Xlf2PropBase" has a dependency on "compile" but no such target exists. Dependency will be ignored.
 Target "ScdlBase" has a dependency on "compile" but no such target exists. Dependency will be ignored.
-Build file creation finished in 0.094 seconds
+Build file creation finished in 0.23 seconds
  
 Starting Ant..
   Using build file:     D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\677DAC35267D60547B49B1D85782DEC9\default\logs\build.xml
@@ -104,7 +104,7 @@ ScdlBase:
   [MOINInit] Referenced meta-model: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\MOIN_BUILDT\sap.com\tc\moin\bi\model\textverticalization\_comp\gen\default\public\MM_Inf\lib\moin\sap.com~tc~moin~model~textverticalization_xmi.zip
   [MOINInit] Referenced meta-model: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\MOIN_BUILDT\sap.com\tc\moin\bi\model\util\_comp\gen\default\public\MM_Inf\lib\moin\sap.com~tc~moin~model~util_xmi.zip
   [MOINInit] DataArea name: DefaultDataArea
-  [MOINInit] Moin initialized in 1161 milliseconds.
+  [MOINInit] Moin initialized in 1180 milliseconds.
       [echo] Registering folder: gensrc/extcfg for path: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\677DAC35267D60547B49B1D85782DEC9\gensrc\extcfg/
       [echo] Starting Extension Configuration generator...
   [gen_scdl] 		[SCDL_GEN] Initializing Scdl Generation...
@@ -115,7 +115,7 @@ ScdlBase:
   [gen_scdl] 			[SCDL-EXPORT] Scdl file output location: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\677DAC35267D60547B49B1D85782DEC9/scdl_output\META-INF\p_demo_test~pr~pm.composite
   [gen_scdl] 			[SCDL-EXPORT] sca contribution XML output location: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\677DAC35267D60547B49B1D85782DEC9/scdl_output\META-INF\sca-contribution.xml
   [gen_scdl] 		[SCDL_GEN] Conversion successfully completed!
-     [timer] Extension Configuration generator finished in 0.056 seconds
+     [timer] Extension Configuration generator finished in 0.045 seconds
  
 [MOINShutdown] About to shutdown MOIN...
 [MOINShutdown] MOIN shut down in 51 milliseconds.
@@ -123,7 +123,7 @@ ScdlBase:
 Xlf2PropBase:
       [echo] Start XLF conversion
   [xlf2prop] Found 0 XLF files to convert in folder "mc"
-     [timer] XLF conversion finished in 0.001 seconds
+     [timer] XLF conversion finished in 0 seconds
  
  
 Bpem:
@@ -137,7 +137,7 @@ Bpem:
   [MOINInit] Referenced meta-model: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\MOIN_BUILDT\sap.com\tc\moin\bi\model\textverticalization\_comp\gen\default\public\MM_Inf\lib\moin\sap.com~tc~moin~model~textverticalization_xmi.zip
   [MOINInit] Referenced meta-model: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\MOIN_BUILDT\sap.com\tc\moin\bi\model\util\_comp\gen\default\public\MM_Inf\lib\moin\sap.com~tc~moin~model~util_xmi.zip
   [MOINInit] DataArea name: DefaultDataArea
-  [MOINInit] Moin initialized in 917 milliseconds.
+  [MOINInit] Moin initialized in 798 milliseconds.
   [BpemTask] BC-BMT-BPM-SRV com.sap.tc.glx.BpemTask execute() - Metamodel version validation...
   [BpemTask] BC-BMT-BPM-SRV com.sap.tc.glx.BpemTask execute() - Sanity check is enabled, com.glx.sanity.check system property isn't false.
   [BpemTask] BC-BMT-BPM-SRV com.sap.tc.glx.SourceVersioner compile(host, artifact) - Generating version IDs for sources...
@@ -212,7 +212,7 @@ Bpem:
   [BpemTask] BC-BMT-BPM-SRV com.sap.glx.paradigmInterface.util.GenerateSDA generateArchive(outArchive, srcDir) - D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\677DAC35267D60547B49B1D85782DEC9\default\deploy\ctx\nobelbiocare.com~p_demo_test~pr~pm.bpem archive is generated
   [BpemTask] atts: Default
 [MOINShutdown] About to shutdown MOIN...
-[MOINShutdown] MOIN shut down in 63 milliseconds.
+[MOINShutdown] MOIN shut down in 60 milliseconds.
     [delete] Deleting directory D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\677DAC35267D60547B49B1D85782DEC9\default\deploy\ctx
     [delete] Deleting: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\677DAC35267D60547B49B1D85782DEC9\default\deploy\sda-dd.xml
  
@@ -235,23 +235,23 @@ createPublicParts:
   [pppacker] Checking path: src
   [pppacker] Packed   3 files for entity src (Model Folder Tree)
   [pppacker] Packed 3 entities for public part 'def_cmp'
-     [timer] Packing of public part 'def_cmp' finished in 0.102 seconds
+     [timer] Packing of public part 'def_cmp' finished in 0.089 seconds
  
  
 build:
  
-Ant runtime 4.039 seconds
+Ant runtime 3.658 seconds
  
 Ant build finished OK
 MOIN forced shutdown initiated.
  
-Build plugin finished at 2017-11-22 11:49:57 GMT+01:00 (CET)
-Total build plugin runtime: 4.526 seconds
+Build plugin finished at 2017-11-22 12:40:18 GMT+01:00 (CET)
+Total build plugin runtime: 4.472 seconds
  
 Build finished with WARNING
 
-==== Post-Processing ====   started at 2017-11-22 11:49:57.406 CET
-Comparison of previous and actual build results took: 0.004 seconds
+==== Post-Processing ====   started at 2017-11-22 12:40:18.805 CET
+Comparison of previous and actual build results took: 0.005 seconds
 
 Copy the build results 
   from: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\677DAC35267D60547B49B1D85782DEC9\default\

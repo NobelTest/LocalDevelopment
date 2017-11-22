@@ -43,7 +43,7 @@
 </group>
 <group restype="description">
 <trans-unit id="AF49772DCF7011E7A56DA44CC8F139C9" resname="1425f64d1a8d3f969c1d43b84baaeccf" maxwidth="16380" translate="no"><source>Role for Admins</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
-<trans-unit id="CBDE56A1CF7211E79C4400059A3C7A00" resname="0242bb4725fa390cadf17d6a87a579ee" maxwidth="16380" translate="yes"><source>Test POC Rep</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="CBDE56A1CF7211E79C4400059A3C7A00" resname="2896ab5a8d723b0382f51008b121a327" maxwidth="16380" translate="yes"><source>Cambio Nota 2</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
 </group>
 </body>
 </file>

@@ -216,7 +216,7 @@
 </Galaxy.Workflow.SequenceConnector>
 <Galaxy.Workflow.Annotation m:c='1' m:i='E02C978BCBDCF458CF7211E789D600059A3C7A00' nameTranslatable='false' documentationTranslatable='true'>
 <name maxWidth='255' originalText='Annotation 0' resType='generaltext' translate='false' transUnitId='CBDDE2D5CF7211E7B4B600059A3C7A00'/>
-<documentation maxWidth='16380' originalText='Test POC Rep' resType='description' translate='true' transUnitId='CBDE56A1CF7211E79C4400059A3C7A00'/>
+<documentation maxWidth='16380' originalText='Cambio Nota 2' resType='description' translate='true' transUnitId='CBDE56A1CF7211E79C4400059A3C7A00'/>
 </Galaxy.Workflow.Annotation>
 <Galaxy.Workflow.AnnotationConnector m:c='1' m:i='E02C978BD428E676CF7211E7C47200059A3C7A00' nameTranslatable='false' documentationTranslatable='false'/>
 <XSD1.TypeDefinitionForElementDeclaration c='2'>
