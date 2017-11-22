@@ -440,6 +440,7 @@
 <archive location="javalib" path="lib/java/nobelbiocare.com~p_demo_test~bl~scomp~ejbjar.jar" type="jar">
 <property key="attributes">jar,java-library</property>
 </archive>
+<archive location="srcarchive" path="src/java/src.zip" type="zip"/>
 </archives>
 <entities>
 <entity>
@@ -458,6 +459,17 @@
 <fileset location="javalib" source-location="DC" source-path="ejbModule">
 <file path="META-INF/MANIFEST.MF"/>
 <file path="META-INF/ejb-j2ee-engine.xml"/>
+</fileset>
+<fileset location="javalib" source-location="gen" source-path="classes">
+<file path="com/sap/sa/rt/callback/CompiledMappingRulesRegistry$ValueWrapper.class"/>
+<file path="com/sap/sa/rt/callback/CompiledMappingRulesRegistry.class"/>
+<file path="com/sap/sa/rt/callback/JAXBContextProvider.class"/>
+<file path="com/sap/sa/rt/callback/p_demo_test_bl_scomp/SDOHelperContextProvider.class"/>
+</fileset>
+<fileset location="srcarchive" source-location="DC" source-path="gen-src">
+<file path="com/sap/sa/rt/callback/CompiledMappingRulesRegistry.java"/>
+<file path="com/sap/sa/rt/callback/JAXBContextProvider.java"/>
+<file path="com/sap/sa/rt/callback/p_demo_test_bl_scomp/SDOHelperContextProvider.java"/>
 </fileset>
 </entity>
 <entity>

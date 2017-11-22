@@ -1,23 +1,23 @@
->>> === execute (on Wed Nov 22 11:47:53 CET 2017)===
-com.sap.tc.buildplugin.pdef.PdefValidator: Execution starts on Wed Nov 22 11:47:53 CET 2017
+>>> === execute (on Wed Nov 22 13:45:30 CET 2017)===
+com.sap.tc.buildplugin.pdef.PdefValidator: Execution starts on Wed Nov 22 13:45:30 CET 2017
 
 
 
-File: sourceDir1: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test\_comp\src
-File: compilePPDir1: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test_sc\_comp\gen\default\public\default
-File: compilePPDir2: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\sc_demo_test\_comp\gen\default\public\default
+File: sourceDir1: C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test\_comp\src
+File: compilePPDir1: C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test_sc\_comp\gen\default\public\default
+File: compilePPDir2: C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\sc_demo_test\_comp\gen\default\public\default
 >>> === getProductValueMap===
-InputFileMap: {.description=D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test\_comp\src\.description}
-Reading product info from: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test\_comp\src\.description
+InputFileMap: {.description=C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test\_comp\src\.description}
+Reading product info from: C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test\_comp\src\.description
 ProductValueMap: {Name=P_DEMO_TEST, Vendor=nobelbiocare.com, Version=1.0}
 <<< === getProductValueMap===
 >>> === generateProductCR===
 >>> === getSoftcompValueMap===
-InputFileMap: {.description=D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test_sc\_comp\gen\default\public\default\.description}
+InputFileMap: {.description=C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test_sc\_comp\gen\default\public\default\.description}
 SoftcompValueMap: {Name=P_DEMO_TEST_SC, GUID=8d4bc790-cf70-11e7-94b0-dba0c0a83801, Vendor=nobelbiocare.com, ElementTypeID=0, Version=1.0}
 <<< === getSoftcompValueMap===
 >>> === getSoftcompValueMap===
-InputFileMap: {.description=D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\sc_demo_test\_comp\gen\default\public\default\.description}
+InputFileMap: {.description=C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\sc_demo_test\_comp\gen\default\public\default\.description}
 SoftcompValueMap: {Name=SC_DEMO_TEST, GUID=86238111-cf70-11e7-976f-dba0c0a83801, Vendor=nobelbiocare.com, ElementTypeID=0, Version=1.0}
 <<< === getSoftcompValueMap===
 Opening model input stream from plugin resource for task: ModelImport
@@ -46,4 +46,4 @@ Resource opened for ModelCopy: data/cimmodel.dat
 <<< === generateProductCR===
 >>> === generateProductLD===
 <<< === generateProductLD===
-com.sap.tc.buildplugin.pdef.PdefValidator: Execution ends on Wed Nov 22 11:47:54 CET 2017
+com.sap.tc.buildplugin.pdef.PdefValidator: Execution ends on Wed Nov 22 13:45:30 CET 2017

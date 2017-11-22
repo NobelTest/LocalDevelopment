@@ -4,15 +4,15 @@ DC-Type: Software Component Description
 DC-Vendor: nobelbiocare.com
 Implementation-Title: p_demo_test_sc
 Implementation-Vendor: nobelbiocare.com
-Implementation-Version: localDevelopment 20171122104751
+Implementation-Version: localDevelopment 20171122124528
 SC-Name: P_DEMO_TEST_SC
 SC-Vendor: nobelbiocare.com
 
 Name: build-information
-Build-Counter: 20171122104751
+Build-Counter: 20171122124528
 Build-Date: 2017-11-22
 Build-Location: localDevelopment
-Build-Time: 11:47:51 GMT+01:00 (CET)
+Build-Time: 13:45:28 GMT+01:00 (CET)
 Created-By: DC BuildTool
-Source-Location: pedro.jimenez@MADNB2016
+Source-Location: 3508452@BAR-LROMERODA
 

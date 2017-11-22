@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Model applicationGUID="a0cce53b-cf70-11e7-9951-a44cc8f139c9">
+<ReferencedApplication referencedApplicationGUID="5816BD4E-6F0A-473C-03EC-93066516"/>
+<DAO CreatedAt="Wed Nov 22 11:33:49 CET 2017" CreatedBy="3508452" GUID="a0cd6845-cf70-11e7-9a97-a44cc8f139c9" ModifiedAt="Wed Nov 22 11:33:49 CET 2017" ModifiedBy="3508452" Name="modeled" Namespace="http://www.sap.com/caf/nobelbiocare.com/p_demo_test.bl.caf" Visibility="PUBLIC" class="com.sap.caf.foundation.mm.cafmm.impl.dao.mdr.DAO_Package"/>
+<DAO CreatedAt="Wed Nov 22 11:33:49 CET 2017" CreatedBy="3508452" DependencyGuid="5816BD4E-6F0A-473C-03EC-93066516" DependencyName="caf.core" DependencyVendorName="sap.com" DependencyVersion="266" GUID="a0ceacfa-cf70-11e7-bd04-a44cc8f139c9" ModifiedAt="Wed Nov 22 11:33:49 CET 2017" ModifiedBy="3508452" class="com.sap.caf.foundation.mm.cafmm.impl.dao.mdr.DAO_ApplicationDependency"/>
+<DAO CreatedAt="Wed Nov 22 11:33:49 CET 2017" CreatedBy="3508452" GUID="a0cce53b-cf70-11e7-9951-a44cc8f139c9" MetamodelVersion="38" ModifiedAt="Wed Nov 22 11:33:49 CET 2017" ModifiedBy="3508452" Name="p_demo_test.bl.caf" Namespace="http://www.sap.com/caf/nobelbiocare.com" PlatformVersion="7.2.0" VendorName="nobelbiocare.com" Version="0" class="com.sap.caf.foundation.mm.cafmm.impl.dao.mdr.DAO_Application"/>
+<DAO CreatedAt="Wed Nov 22 11:33:49 CET 2017" CreatedBy="3508452" GUID="a0cf543a-cf70-11e7-bd82-a44cc8f139c9" ModifiedAt="Wed Nov 22 11:33:49 CET 2017" ModifiedBy="3508452" Name="NWDIApplicationAspect" Namespace="http://www.sap.com/caf/nobelbiocare.com/p_demo_test.bl.caf" PhysicalName="p_demo_test/bl/caf" class="com.sap.caf.foundation.mm.cafmm.impl.dao.mdr.DAO_RuntimeApplicationAspect"/>
+<DAO CreatedAt="Wed Nov 22 11:33:49 CET 2017" CreatedBy="3508452" GUID="a0ce94d1-cf70-11e7-a220-a44cc8f139c9" ModifiedAt="Wed Nov 22 11:33:49 CET 2017" ModifiedBy="3508452" Name="external" Namespace="http://www.sap.com/caf/nobelbiocare.com/p_demo_test.bl.caf" Visibility="PUBLIC" class="com.sap.caf.foundation.mm.cafmm.impl.dao.mdr.DAO_Package"/>
+<Reference sourceGUID="a0cd6845-cf70-11e7-9a97-a44cc8f139c9" targetGUID="a0cce53b-cf70-11e7-9951-a44cc8f139c9" targetRole="EnclosingApplication" type="single"/>
+<Reference sourceGUID="a0ceacfa-cf70-11e7-bd04-a44cc8f139c9" targetGUID="5816BD4E-6F0A-473C-03EC-93066516" targetRole="UsedApplication" type="single"/>
+<Reference sourceGUID="a0cce53b-cf70-11e7-9951-a44cc8f139c9" targetGUID="a0cf543a-cf70-11e7-bd82-a44cc8f139c9" targetRole="ApplicationAspects" type="multpile"/>
+<Reference sourceGUID="a0cce53b-cf70-11e7-9951-a44cc8f139c9" targetGUID="a0cd6845-cf70-11e7-9a97-a44cc8f139c9" targetRole="Packages" type="multpile"/>
+<Reference sourceGUID="a0cce53b-cf70-11e7-9951-a44cc8f139c9" targetGUID="a0ce94d1-cf70-11e7-a220-a44cc8f139c9" targetRole="Packages" type="multpile"/>
+<Reference sourceGUID="a0cce53b-cf70-11e7-9951-a44cc8f139c9" targetGUID="a0ceacfa-cf70-11e7-bd04-a44cc8f139c9" targetRole="Dependencies" type="multpile"/>
+<Reference sourceGUID="a0cf543a-cf70-11e7-bd82-a44cc8f139c9" targetGUID="a0cce53b-cf70-11e7-9951-a44cc8f139c9" targetRole="Application" type="single"/>
+<Reference sourceGUID="a0ce94d1-cf70-11e7-a220-a44cc8f139c9" targetGUID="a0cce53b-cf70-11e7-9951-a44cc8f139c9" targetRole="EnclosingApplication" type="single"/>
+</Model>

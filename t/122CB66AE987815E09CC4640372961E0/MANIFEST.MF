@@ -6,15 +6,15 @@ DC-Type: J2EE
 DC-Vendor: nobelbiocare.com
 Implementation-Title: p_demo_test/bl/caf/ejbmodule
 Implementation-Vendor: nobelbiocare.com
-Implementation-Version: localDevelopment 20171122104857
+Implementation-Version: localDevelopment 20171122124618
 SC-Name: SC_DEMO_TEST
 SC-Vendor: nobelbiocare.com
 
 Name: build-information
-Build-Counter: 20171122104857
+Build-Counter: 20171122124618
 Build-Date: 2017-11-22
 Build-Location: localDevelopment
-Build-Time: 11:48:57 GMT+01:00 (CET)
+Build-Time: 13:46:18 GMT+01:00 (CET)
 Created-By: DC BuildTool
-Source-Location: pedro.jimenez@MADNB2016
+Source-Location: 3508452@BAR-LROMERODA
 

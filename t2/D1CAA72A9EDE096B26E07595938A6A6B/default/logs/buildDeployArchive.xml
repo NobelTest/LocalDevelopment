@@ -12,12 +12,12 @@
                    vendor: nobelbiocare.com
 
                  location: localDevelopment
-          source location: pedro.jimenez@MADNB2016
+          source location: 3508452@BAR-LROMERODA
             build variant: default
 
-    building on MADNB2016, Windows 8/x86, version 6.2
-    using Java VM 'Java HotSpot(TM) Client VM', version 20.45-b01 (Sun Microsystems Inc.)
-    build started at 2017-11-22 11:48:41 GMT+01:00 (CET)
+    building on BAR-LROMERODA, Windows 8/x86, version 6.2
+    using Java VM 'Java HotSpot(TM) Client VM', version 20.13-b02 (Sun Microsystems Inc.)
+    build started at 2017-11-22 13:46:31 GMT+01:00 (CET)
 
     Build Plugin 'WebdynproPlugin', Version 7.30 SP 17 (NW731CORE_17_REL, built on 2015-09-16 20:49:53 +0200, CL209430)
     detailed versions:
@@ -60,27 +60,27 @@
 <taskdef name="propertybag" classname="com.sap.tools.ant.taskdefs.PropertyBag"/>
 <taskdef name="srcpacker" classname="com.sap.tc.buildplugin.ant.taskdefs.SourceArchiveCreatorTask"/>
 <taskdef name="timer" classname="com.sap.tools.ant.taskdefs.Timer"/>
-<property name="dtr-workspace" value="pedro.jimenez@MADNB2016"/>
+<property name="dtr-workspace" value="3508452@BAR-LROMERODA"/>
 
 <target name="packDeployArchive">
-<copy todir="D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\sda\META-INF\sca-resources">
-<fileset dir="D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\xlf_out"/>
+<copy todir="C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\sda\META-INF\sca-resources">
+<fileset dir="C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\xlf_out"/>
 </copy>
 <timer/>
-<srcpacker destination="D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\sda\src.zip" archiveLocation="srcarchive">
+<srcpacker destination="C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\sda\src.zip" archiveLocation="srcarchive">
 <usedpublicpart dcname="p_demo_test/ui/wd"
                 dcvendor="nobelbiocare.com"
                 ppname="Internal:WebDynpro Application"/>
 </srcpacker>
 <timer message="Source archive creation finished in "/>
 <timer/>
-<jarsap jarfile="D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\D1CAA72A9EDE096B26E07595938A6A6B\default\deploy\nobelbiocare.com~p_demo_test~ui~wd.ear"
-        deployfile="D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\sda\META-INF\wd.xml"
+<jarsap jarfile="C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t2\D1CAA72A9EDE096B26E07595938A6A6B\default\deploy\nobelbiocare.com~p_demo_test~ui~wd.ear"
+        deployfile="C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\sda\META-INF\wd.xml"
         csncomponent="Default">
 <component vendor="nobelbiocare.com"
            name="p_demo_test/ui/wd"
            location="localDevelopment"
-           counter="20171122104845"
+           counter="20171122124635"
            scvendor="nobelbiocare.com"
            scname="SC_DEMO_TEST"/>
 <dependency dependencytype="GLOBAL">
@@ -118,7 +118,7 @@
            implementationtitle="tc/wd/api"
            implementationvendorid="sap.com"/>
 </dependency>
-<fileset dir="D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\sda">
+<fileset dir="C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\sda">
 <exclude name="**/.cvsignore"/>
 <exclude name="**/.nfs*"/>
 <exclude name="**/SCCS/**"/>
@@ -131,7 +131,7 @@
 <exclude name="**/%*%"/>
 <exclude name="**/*~"/>
 </fileset>
-<fileset dir="D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\wda-pp\deploy\webdynpro">
+<fileset dir="C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\wda-pp\deploy\webdynpro">
 <include name="nobelbiocare.com~p_demo_test~ui~wd.war"/>
 <exclude name="**/.cvsignore"/>
 <exclude name="**/.nfs*"/>
@@ -145,7 +145,7 @@
 <exclude name="**/%*%"/>
 <exclude name="**/*~"/>
 </fileset>
-<fileset dir="D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\scdl_output">
+<fileset dir="C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t\D1CAA72A9EDE096B26E07595938A6A6B\scdl_output">
 <include name="META-INF/**"/>
 <exclude name="**/.cvsignore"/>
 <exclude name="**/.nfs*"/>

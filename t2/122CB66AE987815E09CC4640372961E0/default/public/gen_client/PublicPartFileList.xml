@@ -345,6 +345,18 @@
 <file path="META-INF/MANIFEST.MF"/>
 <file path="META-INF/ejb-j2ee-engine.xml"/>
 </fileset>
+<fileset location="javalib" source-location="DC" source-path="src">
+<file path="META-INF/persistence.xml"/>
+<file path="META-INF/wsdl/5816BD4E-6F0A-473C-03EC-93066516/wsdl/caf.core.faults.xsd"/>
+<file path="META-INF/wsdl/5816BD4E-6F0A-473C-03EC-93066516/wsdl/caf.core.services.xsd"/>
+<file path="META-INF/wsdl/5816BD4E-6F0A-473C-03EC-93066516/wsdl/int/all_merged.wsdl"/>
+<file path="META-INF/wsdl/5816BD4E-6F0A-473C-03EC-93066516/wsdl/query_filter.xsd"/>
+<file path="META-INF/wsdl/int/all_merged.wsdl"/>
+<file path="META-INF/xml/ext/5816BD4E-6F0A-473C-03EC-93066516/wsdl/caf.core.faults.xsd"/>
+<file path="META-INF/xml/ext/5816BD4E-6F0A-473C-03EC-93066516/wsdl/caf.core.services.xsd"/>
+<file path="META-INF/xml/ext/5816BD4E-6F0A-473C-03EC-93066516/wsdl/int/all_merged.wsdl"/>
+<file path="META-INF/xml/ext/5816BD4E-6F0A-473C-03EC-93066516/wsdl/query_filter.xsd"/>
+</fileset>
 </entity>
 <entity>
 <name>com.nobelbiocare.p_demo_test.bl.caf</name>

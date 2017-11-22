@@ -1,14 +1,14 @@
-Development Component Build (2017-11-22 11:49:01 GMT+01:00 (CET))
+Development Component Build (2017-11-22 13:46:20 GMT+01:00 (CET))
   Component name: p_demo_test/bl/ear
   Component vendor: nobelbiocare.com
   SC compartment: SC_DEMO_TEST
   Configuration: LocalDevelopment
   Location: localDevelopment
-  Source code location: pedro.jimenez@MADNB2016
-  DC root folder: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\p_demo_test\bl\ear\_comp\
+  Source code location: 3508452@BAR-LROMERODA
+  DC root folder: C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\p_demo_test\bl\ear\_comp\
   DC type: J2EE
   DC subtype: Enterprise Application
-  Host: MADNB2016
+  Host: BAR-LROMERODA
 
 DC Model check:
    DC is available locally
@@ -21,7 +21,7 @@ DC Model check:
 
 Start build plugin:
    using build plugin: sap.com/tc/bi/bp/enterpriseApplication
-   starting build plugin from : D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\SAP_BUILDT\sap.com\tc\bi\bp\enterpriseApplication\_comp\gen\default\public\enterpriseApplication\
+   starting build plugin from : C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\SAP_BUILDT\sap.com\tc\bi\bp\enterpriseApplication\_comp\gen\default\public\enterpriseApplication\
 
 
 
@@ -32,11 +32,11 @@ Build Plugin 'EnterpriseApplicationPlugin', Version 7.30 SP 17 (NW731CORE_17_REL
                 location:  localDevelopment
                     type:  J2EE, subtype Enterprise Application
            build variant:  default
-         source location:  pedro.jimenez@MADNB2016
-         output location:  D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default
-       generation folder:  D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\F875B8A6D7EDB0EB9E494A47C868A078
-       plugin start time:  2017-11-22 11:49:01 GMT+01:00 (CET)
-                 Java VM:  Java HotSpot(TM) Client VM, 20.45-b01 (1.6, Sun Microsystems Inc.)
+         source location:  3508452@BAR-LROMERODA
+         output location:  C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default
+       generation folder:  C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t\F875B8A6D7EDB0EB9E494A47C868A078
+       plugin start time:  2017-11-22 13:46:21 GMT+01:00 (CET)
+                 Java VM:  Java HotSpot(TM) Client VM, 20.13-b02 (1.6, Sun Microsystems Inc.)
 
 
 General options:
@@ -46,71 +46,71 @@ General options:
 
 
 Checking path lengths for sources
-Path length checks finished in 0 seconds
+Path length checks finished in 0.001 seconds
  
 Preparing data context..
-Data context preparation finished in 0.009 seconds
+Data context preparation finished in 0.01 seconds
  
 Creating Ant build file..
-  Creating output file: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default\logs\build.xml
+  Creating output file: C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default\logs\build.xml
   Using Java class:     com.sap.tc.buildplugin.BuildEnterpriseApplication
 Target "createDeployArchive" has a dependency on "compile" but no such target exists. Dependency will be ignored.
-Build file creation finished in 0.019 seconds
+Build file creation finished in 0.015 seconds
  
 Starting Ant..
-  Using build file:     D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default\logs\build.xml
+  Using build file:     C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default\logs\build.xml
   Using build target:   build
   Using Ant version:    1.7.1
  
 sca_contrib_target:
       [echo] Starting sca-contribution.xml generator...
-[gen_contribution_xml] 			[SCA-CONTRIB-GEN] Sca contribution XML output location: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\F875B8A6D7EDB0EB9E494A47C868A078\META-INF\sca-contribution.xml
-     [timer] Starting sca-contribution.xml generator finished in 0.014 seconds
+[gen_contribution_xml] 			[SCA-CONTRIB-GEN] Sca contribution XML output location: C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t\F875B8A6D7EDB0EB9E494A47C868A078\META-INF\sca-contribution.xml
+     [timer] Starting sca-contribution.xml generator finished in 0.015 seconds
  
  
 createDeployArchive:
        [cdu] Preparing archive for deploy unit "default"
        [cdu]   deployment type: "J2EE"
  
-       [cdu] Creating Ant build file: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default\logs\buildDeployArchive.xml
+       [cdu] Creating Ant build file: C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default\logs\buildDeployArchive.xml
  
        [cdu] Creating descriptor META-INF/sda-dd.xml ...
  
        [cdu] Skipping creation of application.xml for JEE5 archive.
  
-       [cdu] Validating descriptor D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\p_demo_test\bl\ear\_comp\META-INF\application-j2ee-engine.xml
+       [cdu] Validating descriptor C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\p_demo_test\bl\ear\_comp\META-INF\application-j2ee-engine.xml
        [cdu] Setting provider name to "nobelbiocare.com".
        [cdu] Adding reference for runtime dependency on component "p_demo_test/infra/sgc" (vendor "nobelbiocare.com", type "application")
  
        [cdu] Collecting modules ...
        [cdu] Adding module 'nobelbiocare.com~p_demo_test~bl~ejb~ejbjar.jar' from DC 'p_demo_test/bl/ejb' (vendor 'nobelbiocare.com'), public part 'ejbjar'
-       [cdu] Ant build file creation finished in 0.03 seconds
+       [cdu] Ant build file creation finished in 0.031 seconds
  
 packDeployArchive:
  [srcpacker] Creating source archive
  [srcpacker] No sources available for packing, no archive will be created.
-     [timer] Source archive creation finished in 0.016 seconds
+     [timer] Source archive creation finished in 0.018 seconds
  
     [jarsap] Info: JarSAP version 20090803.1000
     [jarsap] Info: JarSAPProcessing version 20090907.1000 / JarSL version 20100616.1800
-    [jarsap] Building: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default\deploy\nobelbiocare.com~p_demo_test~bl~ear.ear with compression
-     [timer] JarSAP finished in 0.013 seconds
+    [jarsap] Building: C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default\deploy\nobelbiocare.com~p_demo_test~bl~ear.ear with compression
+     [timer] JarSAP finished in 0.052 seconds
  
  
 build:
  
-Ant runtime 0.099 seconds
+Ant runtime 0.132 seconds
  
 Ant build finished OK
  
-Build plugin finished at 2017-11-22 11:49:02 GMT+01:00 (CET)
-Total build plugin runtime: 0.292 seconds
+Build plugin finished at 2017-11-22 13:46:21 GMT+01:00 (CET)
+Total build plugin runtime: 0.238 seconds
  
 Build finished OK
 
-==== Post-Processing ====   started at 2017-11-22 11:49:02.271 CET
+==== Post-Processing ====   started at 2017-11-22 13:46:21.262 CET
 Comparison of previous and actual build results took: 0 seconds
 
 Copy the build results 
-  from: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default\
-  to:   D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\p_demo_test\bl\ear\_comp\gen\default\
+  from: C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default\
+  to:   C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\p_demo_test\bl\ear\_comp\gen\default\

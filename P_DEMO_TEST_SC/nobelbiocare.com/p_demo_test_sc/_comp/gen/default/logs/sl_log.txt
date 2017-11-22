@@ -1,16 +1,16 @@
->>> === execute (on Wed Nov 22 11:47:52 CET 2017)===
-com.sap.tc.buildplugin.scdef.ScdefValidator: Execution starts on Wed Nov 22 11:47:52 CET 2017
+>>> === execute (on Wed Nov 22 13:45:28 CET 2017)===
+com.sap.tc.buildplugin.scdef.ScdefValidator: Execution starts on Wed Nov 22 13:45:28 CET 2017
 
 
 
-File: sourceDir1: D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test_sc\_comp\src
+File: sourceDir1: C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test_sc\_comp\src
 compilePPDirList is empty.
 >>> === generate===
 >>> === getSoftcompValueMap===
-InputFileMap: {.description=D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test_sc\_comp\src\.description}
+InputFileMap: {.description=C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\P_DEMO_TEST_SC\nobelbiocare.com\p_demo_test_sc\_comp\src\.description}
 SoftcompValueMap: {Name=P_DEMO_TEST_SC, GUID=8d4bc790-cf70-11e7-94b0-dba0c0a83801, Vendor=nobelbiocare.com, ElementTypeID=0, Version=1.0}
 <<< === getSoftcompValueMap===
 >>> === generateSoftwareComponent===
 <<< === generateSoftwareComponent===
 <<< === generate===
-com.sap.tc.buildplugin.scdef.ScdefValidator: Execution ends on Wed Nov 22 11:47:52 CET 2017
+com.sap.tc.buildplugin.scdef.ScdefValidator: Execution ends on Wed Nov 22 13:45:28 CET 2017

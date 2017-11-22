@@ -12,12 +12,12 @@
                    vendor: nobelbiocare.com
 
                  location: localDevelopment
-          source location: pedro.jimenez@MADNB2016
+          source location: 3508452@BAR-LROMERODA
             build variant: default
 
-    building on MADNB2016, Windows 8/x86, version 6.2
-    using Java VM 'Java HotSpot(TM) Client VM', version 20.45-b01 (Sun Microsystems Inc.)
-    build started at 2017-11-22 11:49:02 GMT+01:00 (CET)
+    building on BAR-LROMERODA, Windows 8/x86, version 6.2
+    using Java VM 'Java HotSpot(TM) Client VM', version 20.13-b02 (Sun Microsystems Inc.)
+    build started at 2017-11-22 13:46:21 GMT+01:00 (CET)
 
     Build Plugin 'EnterpriseApplicationPlugin', Version 7.30 SP 17 (NW731CORE_17_REL, built on 2015-09-16 20:50:02 +0200, CL209430)
     detailed versions:
@@ -49,9 +49,9 @@
 <!-- public part creation skipped because there are no public parts defined. -->
 
 <target name="createDeployArchive">
-<cdu unit="default" deployfolder="D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default\deploy">
-<descriptor type="sda-deployment-descriptor" file="D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\p_demo_test\bl\ear\_comp\META-INF\sda-dd.xml"/>
-<fileset dir="D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\p_demo_test\bl\ear\_comp\META-INF" prefix="META-INF"/>
+<cdu unit="default" deployfolder="C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t2\F875B8A6D7EDB0EB9E494A47C868A078\default\deploy">
+<descriptor type="sda-deployment-descriptor" file="C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\p_demo_test\bl\ear\_comp\META-INF\sda-dd.xml"/>
+<fileset dir="C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\SC_DEMO_TEST\nobelbiocare.com\p_demo_test\bl\ear\_comp\META-INF" prefix="META-INF"/>
 </cdu>
 </target>
 
@@ -63,10 +63,10 @@
 <timer message="Starting sca-contribution.xml generator finished in "/>
 <!-- end generator id 'sap.com~gen_contribution_xml', type 'sap.com~gen_contribution_xml' -->
 <prepda extendmoduletypes="true">
-<fileset dir="D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\F875B8A6D7EDB0EB9E494A47C868A078">
+<fileset dir="C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t\F875B8A6D7EDB0EB9E494A47C868A078">
 <include name="META-INF/**"/>
 </fileset>
-<fileset dir="D:\Users\pedro.jimenez\Desktop\TestNobel\eclipse\Test_POC.jdi\LocalDevelopment\t\F875B8A6D7EDB0EB9E494A47C868A078/converterOutput">
+<fileset dir="C:\NWDS74_SP17(for 12)\eclipse\workspace_REP_DEMO.jdi\LocalDevelopment\t\F875B8A6D7EDB0EB9E494A47C868A078/converterOutput">
 <include name="**/*.*"/>
 </fileset>
 <moduletype type="SAP-J2EE-Module[container-type[mc~container]]" mode="exclude-immediate"/>

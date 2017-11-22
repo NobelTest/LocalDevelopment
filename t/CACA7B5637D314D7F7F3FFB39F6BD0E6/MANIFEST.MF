@@ -6,15 +6,15 @@ DC-Type: J2EE
 DC-Vendor: nobelbiocare.com
 Implementation-Title: p_demo_test/bl/ejb
 Implementation-Vendor: nobelbiocare.com
-Implementation-Version: localDevelopment 20171122104900
+Implementation-Version: localDevelopment 20171122124620
 SC-Name: SC_DEMO_TEST
 SC-Vendor: nobelbiocare.com
 
 Name: build-information
-Build-Counter: 20171122104900
+Build-Counter: 20171122124620
 Build-Date: 2017-11-22
 Build-Location: localDevelopment
-Build-Time: 11:49:00 GMT+01:00 (CET)
+Build-Time: 13:46:20 GMT+01:00 (CET)
 Created-By: DC BuildTool
-Source-Location: pedro.jimenez@MADNB2016
+Source-Location: 3508452@BAR-LROMERODA
 

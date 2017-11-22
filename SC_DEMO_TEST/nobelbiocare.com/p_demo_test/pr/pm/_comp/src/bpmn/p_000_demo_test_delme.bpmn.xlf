@@ -40,10 +40,12 @@
 <trans-unit id="AFE2E7B7CF7011E78775A44CC8F139C9" resname="5ca62222d443360dbae6918624b21b4b" maxwidth="255" translate="no"><source>End</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
 <trans-unit id="AFE2E7BBCF7011E79052A44CC8F139C9" resname="3b9e0b3613ea35dcae14d867fd6cfa20" maxwidth="255" translate="no"><source>End_InputMapping</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
 <trans-unit id="CBDDE2D5CF7211E7B4B600059A3C7A00" resname="1bd940531f863328b7c96a8d5d0ad36a" maxwidth="255" translate="no"><source>Annotation 0</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="42B7DC4CCF8211E7A19AA44CC8F139C9" resname="801385365f2e37c48171f12a940ca40a" maxwidth="255" translate="no"><source>Annotation 0</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
 </group>
 <group restype="description">
 <trans-unit id="AF49772DCF7011E7A56DA44CC8F139C9" resname="1425f64d1a8d3f969c1d43b84baaeccf" maxwidth="16380" translate="no"><source>Role for Admins</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
 <trans-unit id="CBDE56A1CF7211E79C4400059A3C7A00" resname="2896ab5a8d723b0382f51008b121a327" maxwidth="16380" translate="yes"><source>Cambio Nota 2</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
+<trans-unit id="42B80675CF8211E78BD7A44CC8F139C9" resname="03197a69c5e63a5d9f24926d8ad4a918" maxwidth="16380" translate="yes"><source>DEMO TEST</source><s2x xmlns="http://www.sap.com"><textState>new</textState></s2x></trans-unit>
 </group>
 </body>
 </file>
