@@ -13,6 +13,7 @@
 <sc-compartment name="WDEXTENSIONS" root="WDEXTENSIONS"/>
 <sc-compartment name="VOICEVC" root="VOICEVC"/>
 <sc-compartment name="BPEM-MM" root="BPEM-MM"/>
+<sc-compartment name="SC_DEMO_TEST" root="SC_DEMO_TEST"/>
 <sc-compartment name="BPEM-BUILDT" root="BPEM-BUILDT"/>
 <sc-compartment name="VCFRAMEWORK" root="VCFRAMEWORK"/>
 <sc-compartment name="BRMS-FACADE" root="BRMS-FACADE"/>
@@ -21,6 +22,7 @@
 <sc-compartment name="CAF-MF" root="CAF-MF"/>
 <sc-compartment name="EP-BASIS-API" root="EP-BASIS-API"/>
 <sc-compartment name="PI-SCP-BUILDT" root="PI-SCP-BUILDT"/>
+<sc-compartment name="P_DEMO_TEST_SC" root="P_DEMO_TEST_SC"/>
 <sc-compartment name="ENGINEAPI" root="ENGINEAPI"/>
 <sc-compartment name="SERVERCORE" root="SERVERCORE"/>
 <sc-compartment name="ESMP_BUILDT" root="ESMP_BUILDT"/>
